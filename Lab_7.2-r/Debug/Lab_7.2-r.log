@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 7.1-7.3(без 7.3)\Lab_7.2-r\Lab_7.2-r\Lab_7.2-r\Source.cpp(73): warning C4715: 'rowMin': not all control paths return a value
+F:\Навчання\Лаб. з АП\Лабораторні 7.1-7.3(без 7.3)\Lab_7.2-r\Lab_7.2-r\Lab_7.2-r\Source.cpp(90): warning C4715: 'arrSearchCol': not all control paths return a value
+  Lab_7.2-r.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 7.1-7.3(без 7.3)\Lab_7.2-r\Lab_7.2-r\Debug\Lab_7.2-r.exe
